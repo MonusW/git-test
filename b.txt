@@ -1,3 +1,10 @@
 file: a
 
-hello afile
+hello file a;
+
+minimum;
+200
+100
+50
+40
+30
