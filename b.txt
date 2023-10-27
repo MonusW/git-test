@@ -8,3 +8,5 @@ minimum;
 50
 40
 30
+
+added by dev
